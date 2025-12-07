@@ -11,5 +11,5 @@
 - **Долгосрочные:** Углубление в алгоритмы и низкоуровневые концепции
 
 ## Контакты
-- **Email:** sidorovichpavel33@gmail.com
+- **Email:** sidorovichpavel333@gmail.com
 - **GitHub:** https://github.com/alex1441231
